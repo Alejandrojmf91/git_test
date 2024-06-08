@@ -1,2 +1,2 @@
 # git_test
-git@github.com:Alejandrojmf91/git_test.git
+https://github.com/Alejandrojmf91/git_test.git
